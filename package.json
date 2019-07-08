@@ -1,0 +1,24 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "\"A FriendFinder app\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewSRea/FriendFinder.git"
+  },
+  "author": "Andrew S Rea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndrewSRea/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/AndrewSRea/FriendFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
