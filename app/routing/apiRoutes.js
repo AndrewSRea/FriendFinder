@@ -36,7 +36,7 @@ module.exports = function(app) {
     console.log("Best match friend diff " + bestMatch.friendDifference);
     console.log("**********************************");
 
-    for (var i = 0; i < friends.length; i++); {
+    for (var i = 0; i < friends.length; i++) {
       console.log(friends[i].name);
       totalDifference = 0;
       console.log("Total Diff " + totalDifference);
